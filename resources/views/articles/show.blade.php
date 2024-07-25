@@ -71,7 +71,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="social-share">
+                                {{-- <div class="social-share">
                                     <h4>{{ __('ui.Condividi su') }}</h4>
                                     <ul class="d-flex">
                                         <li><a href="javascript:void(0)" class="facebook me-2"><i
@@ -85,7 +85,7 @@
                                         <li><a href="javascript:void(0)" class="pinterest"><i
                                                     class="lni lni-pinterest"></i></a></li>
                                     </ul>
-                                </div>
+                                </div> --}}
                             </div>
 
                         </div>
