@@ -17,7 +17,7 @@ return [
     'Annuncio creato con successo' => 'Ad created successfully',
     'Il tuo annuncio è in fase di controllo e riceverai una mail non appena verrà pubblicato' => 'Your ad is under review and you will receive an email once it is published',
     'Torna alla Home' => 'Back to Home',
-    'Torna alla Homepage' => 'Back to Homepage',
+    'Torna alla homepage' => 'Back to Homepage',
     'Inserisci un nuovo articolo' => 'Add a new article',
     'Descrizione prodotto' => 'Product Description',
     'Condizione' => 'Condition',

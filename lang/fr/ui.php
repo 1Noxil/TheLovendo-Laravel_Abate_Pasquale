@@ -18,7 +18,7 @@ return [
     'Annuncio creato con successo' => 'Annonce créée avec succès',
     'Il tuo annuncio è in fase di controllo e riceverai una mail non appena verrà pubblicato' => 'Votre annonce est en cours de vérification et vous recevrez un e-mail dès qu\'elle sera publiée',
     'Torna alla Home' => 'Retour à l\'accueil',
-    'Torna alla Homepage' => 'Retour à l\'accueil',
+    'Torna alla homepage' => 'Retour à l\'accueil',
     'Inserisci un nuovo articolo' => 'Ajouter un nouvel article',
     'Descrizione prodotto' => 'Description du produit',
     'Condizione' => 'Condition',
