@@ -142,7 +142,7 @@
                                     <h3>{{ $article_to_check->title }}</h3>
                                     <p>{{ $article_to_check->body }}</p>
                                     <p>{{ __('ui.Prezzo:') }} {{ $article_to_check->price }}€</p>
-                                    <p class="author">{{ __('ui.Autore:') }} {{ $article_to_check->user->firstName }}
+                                    <p class="author">{{ __('ui.Venditore:') }} {{ $article_to_check->user->firstName }}
                                         {{ $article_to_check->user->lastName }}</p>
                                 </div>
                                 <div class="article-actions d-flex flex-column justify-content-center ms-2">

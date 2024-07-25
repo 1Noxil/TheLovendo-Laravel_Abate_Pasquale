@@ -108,7 +108,7 @@
                         <div class="item-details-sidebar">
                             <!-- Start Single Block -->
                             <div class="single-block author">
-                                <h3>{{ __('ui.Autore') }}</h3>
+                                <h3>{{ __('ui.Venditore') }}</h3>
                                 <div class="content">
                                     <img src="{{$article->user->avatar ? Storage::url($article->user->avatar) : asset('assets/images/placeholder/200x200.png')}}"
                                         alt="#">
