@@ -67,7 +67,7 @@
                         <!-- Start Single Work -->
                         <div class="single-work wow fadeInUp" data-wow-delay=".2s">
                             <span class="serial">01</span>
-                            <h3>{{ __('ui.Registrati!') }}</h3>
+                            <h3>{{ __('ui.Come funziona') }}</h3>
                             <p>Lorem ipsum dolor sit amet constur adipisicing sed do eiusmod tempor incididunt labore.</p>
                         </div>
                         <!-- End Single Work -->
@@ -179,7 +179,7 @@
                             <i class="lni lni-quotation"></i>
                         </div>
                         <div class="author">
-                            <img src="{{ asset('assets/images/placeholder/Nicola.jpeg') }}" alt="#">
+                            <img src="{{ asset('assets/images/placeholder/Nicola2.png') }}" alt="#">
                             <h4 class="name">
                                 Nicola Alò
                                 <span class="deg">Frontend Developer</span>
@@ -197,7 +197,7 @@
                                 <i class="lni lni-quotation"></i>
                             </div>
                             <div class="author">
-                                <img src="{{ asset('assets/images/placeholder/Giammarco.jpeg') }}" alt="#">
+                                <img src="{{ asset('assets/images/placeholder/Giammarco.png') }}" alt="#">
                                 <h4 class="name">
                                     Giammarco Talò
                                     <span class="deg">Fullstack Developer</span>
