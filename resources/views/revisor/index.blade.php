@@ -15,8 +15,7 @@
                                         @csrf
                                         @method('PATCH')
                                         <button class="btn btn-danger-custom"
-                                            type="submit">{{ __('ui.Annulla ultima
-                                                                                    modifica') }}</button>
+                                            type="submit">{{ __('ui.Annulla ultima modifica') }}</button>
                                     </form>
                                 </div>
                             @endif
