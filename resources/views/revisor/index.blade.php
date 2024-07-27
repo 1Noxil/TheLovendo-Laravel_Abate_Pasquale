@@ -13,6 +13,7 @@
                                     <p>{{ session('message') }}</p>
                                     <form action="{{ route('rollback') }}" method="post" class="mt-2 button">
                                         @csrf
+                                        s
                                         @method('PATCH')
                                         <button class="btn btn-danger-custom"
                                             type="submit">{{ __('ui.Annulla ultima modifica') }}</button>
